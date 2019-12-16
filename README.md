@@ -1,5 +1,7 @@
 Sudoku-Solver using BackTracking in Python, Java, C
 
--Python solved
+-Python solved only in a functionalWay
 
--Java and C are still missing
+-Java solved in a ObjectOrientedWay
+
+-C is still missing
