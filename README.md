@@ -1,1 +1,1 @@
-### Sudoku-Solver using BackTracking in Python, Java, C++
+### Sudoku-Solver using the Backtracking Algorithm in Python, Java, C++
